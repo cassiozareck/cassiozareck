@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Some tools I use:
+### Some tools I use
 [![My Skills](https://skillicons.dev/icons?i=go,docker,python,git,linux)](https://skillicons.dev)
 <!--START_SECTION:activity-->
 
