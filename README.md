@@ -3,6 +3,12 @@
 ### Some tools I use
 [![My Skills](https://skillicons.dev/icons?i=go,docker,python,git,linux)](https://skillicons.dev)
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#25898](https://github.com/go-gitea/gitea/issues/25898#issuecomment-1670211032) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+2. 💪 Opened PR [#26402](https://github.com/go-gitea/gitea/pull/26402) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. 🗣 Commented on [#1](https://github.com/cassiozareck/gitea/pull/1#issuecomment-1670196421) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
+4. 🎉 Merged PR [#1](https://github.com/cassiozareck/gitea/pull/1) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
+5. 💪 Opened PR [#1](https://github.com/cassiozareck/gitea/pull/1) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
+<!--END_SECTION:activity-->
 
 <!--
 **cassiozareck/cassiozareck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
