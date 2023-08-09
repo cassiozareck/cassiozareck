@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an enthusiastic developer seeking to use my knowledge to improve the software world. I'm a FOSS enthusiast
+I'm an enthusiastic developer seeking to use my knowledge to improve the software world. I like to contribute to open-source
 
 ### 🛠️ Some tools I use
 [![My Skills](https://skillicons.dev/icons?i=go,docker,python,git,linux)](https://skillicons.dev)
