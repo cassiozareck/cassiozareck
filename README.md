@@ -15,10 +15,9 @@ I'm an enthusiastic developer seeking to use my knowledge to improve the softwar
 
 ### 📫 Contacts
 ![](https://dcbadge.vercel.app/api/shield/828005328988798997)
-<a href="mailto:cassiomilczareck@gmail.com?subject=[GitHub] Source Han Sans">
+<a href="mailto:cassiomilczareck@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
 
 <!--
 **cassiozareck/cassiozareck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
