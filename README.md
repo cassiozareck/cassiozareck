@@ -6,11 +6,11 @@ I'm an enthusiastic developer seeking to use my knowledge to improve the softwar
 
 ### 🔭 Current activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25898](https://github.com/go-gitea/gitea/issues/25898#issuecomment-1670211032) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-2. 💪 Opened PR [#26402](https://github.com/go-gitea/gitea/pull/26402) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-3. 🗣 Commented on [#1](https://github.com/cassiozareck/gitea/pull/1#issuecomment-1670196421) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
-4. 🎉 Merged PR [#1](https://github.com/cassiozareck/gitea/pull/1) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
-5. 💪 Opened PR [#1](https://github.com/cassiozareck/gitea/pull/1) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
+1. 🗣 Commented on [#26402](https://github.com/go-gitea/gitea/pull/26402#issuecomment-1674793769) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+2. 🗣 Commented on [#25898](https://github.com/go-gitea/gitea/issues/25898#issuecomment-1670211032) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+3. 💪 Opened PR [#26402](https://github.com/go-gitea/gitea/pull/26402) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+4. 🗣 Commented on [#1](https://github.com/cassiozareck/gitea/pull/1#issuecomment-1670196421) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
+5. 🎉 Merged PR [#1](https://github.com/cassiozareck/gitea/pull/1) in [cassiozareck/gitea](https://github.com/cassiozareck/gitea)
 <!--END_SECTION:activity-->
 
 ### 📫 Contacts
