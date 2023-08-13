@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an ambitious young developer aiming to be proficient in software development. I know a bit of those things called algorithms and databases and have some skills but not that much 😆. I like to contribute to open-source
+I'm an ambitious young developer aiming to be proficient in software development. I know a bit of those things called algorithms and have some skills but not that much 😆. I like to contribute to open-source
 
 ### 🛠️ Some tools I use
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,git,docker,python,linux)](https://skillicons.dev)
