@@ -14,7 +14,8 @@ I'm an ambitious young developer aiming to be proficient in software development
 <!--END_SECTION:activity-->
 
 ### 📫 Contacts
-![](https://dcbadge.vercel.app/api/shield/828005328988798997)
+[![Discord](https://dcbadge.vercel.app/api/shield/828005328988798997)](https://discord.com/channels/@me/828005328988798997)
+
 <a href="mailto:cassiomilczareck@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
