@@ -6,11 +6,11 @@ I'm an ambitious young developer aiming to be proficient in software development
 
 ### 🔭 Current activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Fernandoakafox/waitwise/pull/2) in [Fernandoakafox/waitwise](https://github.com/Fernandoakafox/waitwise)
-2. ❗ Opened issue [#1](https://github.com/Fernandoakafox/waitwise/issues/1) in [Fernandoakafox/waitwise](https://github.com/Fernandoakafox/waitwise)
-3. 💪 Opened PR [#26889](https://github.com/go-gitea/gitea/pull/26889) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-4. 🗣 Commented on [#26361](https://github.com/go-gitea/gitea/issues/26361#issuecomment-1676169824) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-5. 🗣 Commented on [#26402](https://github.com/go-gitea/gitea/pull/26402#issuecomment-1675925187) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+1. ❌ Closed PR [#26275](https://github.com/go-gitea/gitea/pull/26275) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+2. 💪 Opened PR [#2](https://github.com/Fernandoakafox/waitwise/pull/2) in [Fernandoakafox/waitwise](https://github.com/Fernandoakafox/waitwise)
+3. ❗ Opened issue [#1](https://github.com/Fernandoakafox/waitwise/issues/1) in [Fernandoakafox/waitwise](https://github.com/Fernandoakafox/waitwise)
+4. 💪 Opened PR [#26889](https://github.com/go-gitea/gitea/pull/26889) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
+5. 🗣 Commented on [#26361](https://github.com/go-gitea/gitea/issues/26361#issuecomment-1676169824) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
 <!--END_SECTION:activity-->
 
 ### 📫 Contacts
