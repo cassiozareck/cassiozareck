@@ -6,11 +6,11 @@ I'm an ambitious young developer aiming to be proficient in software development
 
 ### 🔭 Current activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/Fernandoakafox/dijkstra-map/issues/3) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
-2. 💪 Opened PR [#2](https://github.com/Fernandoakafox/dijkstra-map/pull/2) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
-3. 💪 Opened PR [#1](https://github.com/Fernandoakafox/dijkstra-map/pull/1) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
-4. ❌ Closed PR [#26275](https://github.com/go-gitea/gitea/pull/26275) in [go-gitea/gitea](https://github.com/go-gitea/gitea)
-5. 💪 Opened PR [#2](https://github.com/Fernandoakafox/waitwise/pull/2) in [Fernandoakafox/waitwise](https://github.com/Fernandoakafox/waitwise)
+1. 🗣 Commented on [#4](https://github.com/Fernandoakafox/dijkstra-map/pull/4#issuecomment-1819989553) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
+2. 🗣 Commented on [#4](https://github.com/Fernandoakafox/dijkstra-map/pull/4#issuecomment-1819989330) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
+3. 💪 Opened PR [#4](https://github.com/Fernandoakafox/dijkstra-map/pull/4) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
+4. ❗ Opened issue [#3](https://github.com/Fernandoakafox/dijkstra-map/issues/3) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
+5. 💪 Opened PR [#2](https://github.com/Fernandoakafox/dijkstra-map/pull/2) in [Fernandoakafox/dijkstra-map](https://github.com/Fernandoakafox/dijkstra-map)
 <!--END_SECTION:activity-->
 
 ### 📫 Contacts
