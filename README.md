@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an ambitious young developer aiming to be proficient in software development. I know a bit about this thing called programming and have some skills 😆. I like to contribute to open-source. Visit my work: https://cassiozareck.github.io/
+I'm an ambitious young developer aiming to be proficient in software development. Visit my work: https://cassiozareck.github.io/
 
 ### 🛠️ Some tools I use
 [![My Skills](https://skillicons.dev/icons?i=go,postgres,git,docker,python,linux)](https://skillicons.dev)
